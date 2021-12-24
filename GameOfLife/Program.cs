@@ -12,7 +12,7 @@ boardManager.InitBoard(board);
 
 int currentRun = 0;
 
-while (currentRun < maxRuns)
+while (currentRun <= maxRuns)
 {
     Console.Clear();
     
@@ -20,7 +20,7 @@ while (currentRun < maxRuns)
     
     boardManager.Grow(board);
     
-    boardManager.RemoveDeletedCell(board);
+    boardManager.RemoveDiedCell(board);
     
     boardManager.BornCell(board);
     

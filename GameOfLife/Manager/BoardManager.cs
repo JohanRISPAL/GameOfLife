@@ -61,7 +61,7 @@ public class BoardManager
         
         for (int i = x - 1; i <= x + 1; i++) {
             for (int j = y - 1; j <= y + 1; j++) {
-                if (!((i < 0 || j < 0) || (i >= board.Heigth || j >= board.Width)))
+                if (!((i < 0 || j < 0) || (i >= board.Heigth - 1 || j >= board.Width - 1)))
                 {
                     if(!((i == x) && (j == y)))
                     {
@@ -116,7 +116,7 @@ public class BoardManager
         }
     }
 
-    public void RemoveDeletedCell(Board board)
+    public void RemoveDiedCell(Board board)
     {
         for (int i = 0; i < board.Cells.GetLength(0); i++)
         {
