@@ -1,0 +1,15 @@
+C:\Users\johan\RiderProjects\GameOfLife\GameOfLife\bin\Debug\net6.0\Ipme.StarLightUnicorn.GameOfLife.exe
+C:\Users\johan\RiderProjects\GameOfLife\GameOfLife\bin\Debug\net6.0\Ipme.StarLightUnicorn.GameOfLife.deps.json
+C:\Users\johan\RiderProjects\GameOfLife\GameOfLife\bin\Debug\net6.0\Ipme.StarLightUnicorn.GameOfLife.runtimeconfig.json
+C:\Users\johan\RiderProjects\GameOfLife\GameOfLife\bin\Debug\net6.0\Ipme.StarLightUnicorn.GameOfLife.dll
+C:\Users\johan\RiderProjects\GameOfLife\GameOfLife\bin\Debug\net6.0\ref\Ipme.StarLightUnicorn.GameOfLife.dll
+C:\Users\johan\RiderProjects\GameOfLife\GameOfLife\bin\Debug\net6.0\Ipme.StarLightUnicorn.GameOfLife.pdb
+C:\Users\johan\RiderProjects\GameOfLife\GameOfLife\obj\Debug\net6.0\GameOfLife.csproj.AssemblyReference.cache
+C:\Users\johan\RiderProjects\GameOfLife\GameOfLife\obj\Debug\net6.0\GameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\RiderProjects\GameOfLife\GameOfLife\obj\Debug\net6.0\GameOfLife.AssemblyInfoInputs.cache
+C:\Users\johan\RiderProjects\GameOfLife\GameOfLife\obj\Debug\net6.0\GameOfLife.AssemblyInfo.cs
+C:\Users\johan\RiderProjects\GameOfLife\GameOfLife\obj\Debug\net6.0\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\johan\RiderProjects\GameOfLife\GameOfLife\obj\Debug\net6.0\Ipme.StarLightUnicorn.GameOfLife.dll
+C:\Users\johan\RiderProjects\GameOfLife\GameOfLife\obj\Debug\net6.0\ref\Ipme.StarLightUnicorn.GameOfLife.dll
+C:\Users\johan\RiderProjects\GameOfLife\GameOfLife\obj\Debug\net6.0\Ipme.StarLightUnicorn.GameOfLife.pdb
+C:\Users\johan\RiderProjects\GameOfLife\GameOfLife\obj\Debug\net6.0\GameOfLife.genruntimeconfig.cache
